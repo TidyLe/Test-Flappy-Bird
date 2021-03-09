@@ -1,1 +1,3 @@
 Here is another conflict.
+Here is a conflict.
+
